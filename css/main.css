@@ -2,11 +2,11 @@ span {
 	color: black;
 	font-family: "Helvetica Neue",  sans-serif;
 	font-size: 12px; 
-	line-height: 3px;
+	line-height: 0px;
 }
 
 pre {
-	line-height: 3px;
+	line-height: 0px;
 }
 
 #overlay_c{
