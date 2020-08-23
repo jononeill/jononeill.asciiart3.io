@@ -1,32 +1,32 @@
 span {
 	color: black;
 	font-family: "Helvetica Neue",  sans-serif;
-	font-size: 9px; 
-	line-height: 0px;
+	font-size: 12px; 
+	line-height: 3px;
 }
 
 pre {
-	line-height: 0px;
+	line-height: 3px;
 }
 
 #overlay_c{
-	position: absolute; top:7px;left:3px;
-	z-index:2;
+	position: absolute; top:7px;left:8px;
+	z-index:0;
 	color: cyan;
 }
 #overlay_m{
-	position: absolute; top:5px;left:2px;
+	position: absolute; top:5px;left:7px;
 	z-index:1;
 	color: magenta;
 }
 #overlay_y{
-	position: absolute; top:3px;left:3px;
+	position: absolute; top:3px;left:8px;
 	z-index:1;
 	color: yellow;
 }
 #overlay_k{
-	position: absolute; top:0px;left:0px;
-	z-index:100;
+	position: absolute; top:0px;left:5px;
+	z-index:4;
 }
 
 span.c1 {
@@ -55,28 +55,28 @@ span.c8 {
 }
 
 span.m1 {
-  color: #ffe6ff;
+  color: #ffe6ffbf;
 }
 span.m2 {
-  color: #ffe6ff;
+  color: #ffe6ffbf;
 }
 span.m3 {
-  color: #ffe6ff;
+  color: #ffe6ffbf;
 }
 span.m4 {
-  color: #ffccff;
+  color: #ffccffbf;
 }
 span.m5 {
-  color: #ff99ff;
+  color: #ff99ffbf;
 }
 span.m6 {
-  color: #ff66ff;
+  color: #ff66ffbf;
 }
 span.m7 {
-  color: #ff33ff;;
+  color: #ff33ffbf;
 }
 span.m8 {
-  color: #ff00ff;
+  color: #ff00ffbf;
 }
 
 span.y1 {
