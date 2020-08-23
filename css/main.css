@@ -13,20 +13,24 @@ pre {
 	position: absolute; top:7px;left:8px;
 	z-index:0;
 	color: cyan;
+	line-height: 0px;
 }
 #overlay_m{
 	position: absolute; top:5px;left:7px;
 	z-index:1;
 	color: magenta;
+	line-height: 0px;
 }
 #overlay_y{
 	position: absolute; top:3px;left:8px;
 	z-index:1;
 	color: yellow;
+	line-height: 0px;
 }
 #overlay_k{
 	position: absolute; top:0px;left:5px;
 	z-index:4;
+	line-height: 0px;
 }
 
 span.c1 {
